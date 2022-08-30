@@ -1,35 +1,43 @@
+
+
+
 body {
-    text-align: initial;
-    color: rgb(255, 255, 255);
-    background-color: black;
-    margin: 0%;
+   
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    margin: 0;
     padding: 0;
 }
 
+.container{
+    width: 30%;
+    background-color: rgb(226, 213, 30);
+    padding: 30px;
+    border-radius: 50px;
+    border-color: aqua;
+
+
+}
+img{
+    width: 80%;
+    border-radius: 20%;
+    padding: 20px;
+    
+}
+
 section {
-    text-align: center;
+    
     font-family: Optima, sans-serif;
     font-style: italic;
 }
+a{
+    color: rgb(0, 0, 0);
+}
 
 h3 {
-    text-align: center;
+    
     font-family: optima, sans-serif;
     font-style: italic;
 }
 
-ul li {
-    margin-left: 36%;
-    margin-right: 29%;
-    text-align: left;
-}
 
-ol {
-    margin-left: 30%;
-    margin-right: 29%;
-    text-align: center;
-}
-
-img {
-    border: 10px solid rgb(229, 241, 15);
-}
