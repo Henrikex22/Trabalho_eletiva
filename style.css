@@ -1,0 +1,43 @@
+
+
+
+body {
+   
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width: 30%;
+    background-color: rgb(226, 213, 30);
+    padding: 30px;
+    border-radius: 50px;
+   
+
+
+}
+img{
+    width: 100%;
+    border-color: rgb(0, 0, 0)  ;
+    border-radius: 20%;
+    
+}
+
+section {
+    
+    font-family: Optima, sans-serif;
+    font-style: italic;
+}
+a{
+    color: rgb(0, 0, 0);
+}
+
+h3 {
+    
+    font-family: optima, sans-serif;
+    font-style: italic;
+}
+
+
